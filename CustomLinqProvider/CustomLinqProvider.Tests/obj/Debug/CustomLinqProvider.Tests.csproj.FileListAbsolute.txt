@@ -1,0 +1,7 @@
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider.Tests\bin\Debug\CustomLinqProvider.Tests.dll
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider.Tests\bin\Debug\CustomLinqProvider.Tests.pdb
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider.Tests\obj\Debug\CustomLinqProvider.Tests.csprojResolveAssemblyReference.cache
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider.Tests\obj\Debug\CustomLinqProvider.Tests.dll
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider.Tests\obj\Debug\CustomLinqProvider.Tests.pdb
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider.Tests\bin\Debug\CustomLinqProvider.dll
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider.Tests\bin\Debug\CustomLinqProvider.pdb

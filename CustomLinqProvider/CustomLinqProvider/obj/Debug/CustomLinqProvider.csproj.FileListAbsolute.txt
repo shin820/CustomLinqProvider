@@ -1,0 +1,5 @@
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider\bin\Debug\CustomLinqProvider.dll
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider\bin\Debug\CustomLinqProvider.pdb
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider\obj\Debug\CustomLinqProvider.csprojResolveAssemblyReference.cache
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider\obj\Debug\CustomLinqProvider.dll
+D:\LINQ Provider\CustomLinqProvider\CustomLinqProvider\CustomLinqProvider\obj\Debug\CustomLinqProvider.pdb
